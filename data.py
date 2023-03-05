@@ -7,13 +7,13 @@ Recommended usage:
 
 # thermal conductivity [W/m/K]
 lambdas = dict(
-    HE=0.1513,
+    HE=0.151,
     NE=0.0491,
-    AR=0.01772,
+    AR=0.0177,
     KR=0.00943,
     H2=0.1805,
     O2=0.02658,
-    H2O=0.598,
+    H2O=0.016,
     H2O2=0.5863,
     O3=0.019854,
     CO=0.024,
@@ -39,7 +39,7 @@ R_v = 461.5227     # Specific gas constant of water [J/kg/K]
 
 R_g = 8.31446      # Universal gas constant [J/mol/K]
 R_erg = 8.31446e7  # Universal gas constant [erg/mol/K]
-R_cal = 1.987      # Universal gas constant [cal/mol/K]
+R_cal = 1.9872     # Universal gas constant [cal/mol/K]
 N_A = 6.02214e23   # Avogadro's number [-]
 h = 6.62607015e-34 # Planck constant [m^2*kg/s]'''
 
